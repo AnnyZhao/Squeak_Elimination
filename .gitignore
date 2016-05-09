@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+*.pkf
+output.wav
+output2.wav
+.DS_Store
